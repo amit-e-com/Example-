@@ -1,0 +1,26 @@
+# Flutter/Dart files
+.dart_tool/
+.packages
+.pub-cache/
+build/
+flutter_*.tar.xz
+*.log
+*.tmp
+*.bak
+
+# Android/iOS files
+/android/
+/ios/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.swp
+.DS_Store
+*.swo
+*.swn
+*.lock
+
+# CI/CD
+.github/workflows/cache/
